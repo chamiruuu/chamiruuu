@@ -1,25 +1,13 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm chamiru</h1></summary>
-  </ul>
-</div>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+# Hi, I'm chamirurf 👋
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chamiruuu&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chamiruuu&theme=dark&hide_border=false" /> 
-</td>
+**Username:** chamiruuu
 
-<td width="50%" align="center">
+## About Me
+- **A Passionate Developer**
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning **React**
+- 💼 Associate Web Developer and a student
+- 📫 Reach me at: [chamiru.rf@gmail.com](mailto:chamiru.rf@gmail.com)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamiruuu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/chamiruuu) <!-- Replace with your actual LinkedIn profile URL if different -->
