@@ -1,6 +1,4 @@
-# Hi, I'm chamirurf 👋
-
-**Username:** chamiruuu
+# Hi, I'm chamiruuu 👋
 
 ## About Me
 - **A Passionate Developer**
